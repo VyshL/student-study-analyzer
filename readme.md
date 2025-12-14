@@ -31,3 +31,6 @@ This project was built to solve a real-life problem by helping students analyze 
 <img width="1383" height="787" alt="image" src="https://github.com/user-attachments/assets/5b63977a-772c-4f5f-908c-797bcabfb4da" />
 
 
+## live link
+https://student-study-analyzer-29jwuit4qrak8v67h7vnr4.streamlit.app/
+
